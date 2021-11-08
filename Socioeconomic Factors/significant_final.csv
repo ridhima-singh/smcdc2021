@@ -1,0 +1,17 @@
+,Metric 1,Metric 2,R Value,P Value
+,Percent of Vulnerable Populations,Maximum Air Temperature,0.60,1.21E-56
+,Percent of Adults Without a High School Diploma,Maximum Air Temperature,0.60,5.48E-58
+,Percent of Minority Populations,Maximum Air Temperature,0.56,9.41E-50
+,Percent of Low-Income Individuals,Maximum Air Temperature,0.53,3.853E-43
+,Percent of Vulnerable Populations,Maximum Land Surface Temperature,0.49,5.84E-36
+,Percent of Adults Without a High School Diploma,Maximum Land Surface Temperature,0.49,3.45E-36
+,Percent of Minority Populations,Maximum Land Surface Temperature,0.46,1.15E-31
+,Percent of Adults Without a High School Diploma,Residential Building Age,0.59,6.89E-56
+,Percent of Low-Income Individuals,Residential Building Age,0.53,3.2E-43
+,Percent of Vulnerable Populations,Residential Building Age,0.51,3.32E-39
+,Maximum Air Temperature,Residential Building Age,0.50,2.02E-38
+,Percent of Low-Income Individuals,Commercial Building Age,0.45,5.4E-30
+,Percent of Low-Income Individuals,Residential Parcel Count,-0.45,2.24E-30
+,Percent of Low-Income Individuals,Residential Building Size,-0.46,2.49E-31
+,Percent of Vulnerable Populations,Residential Building Size,-0.47,1.23E-32
+,Residential Parcel Count,Residential Building Age,-0.54,9.98E-46
