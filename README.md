@@ -1,5 +1,6 @@
 # Exploring the Spatial Relationship between Demographic Indicators and the Built Environment of a City
-Smoky Mountain Data Challenge 2021: Sustainable Cities: Socioeconomics, Building Types, and Urban Morphology
+Smoky Mountain Data Challenge 2021
+Challenge 5- Sustainable Cities: Socioeconomics, Building Types, and Urban Morphology
 
 ## Authors
 Ridhima Singh[0000-0003-3350-3889]: Farragut High School (s.ridhima@gmail.com)
